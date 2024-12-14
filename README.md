@@ -1,4 +1,6 @@
 # SQL-Banking-case-study
+# Objective : analyze customer transactions, account details, and banking operations to derive actionable insights on customer behavior, trends, and operational efficiency. 
+# Transform data into insights and create presentation to showcase query results visually
 
 # Canva Design
 
